@@ -1,0 +1,6 @@
+- 👋 Hey, I’m @julianlewandowski!
+- 👀 I’m interested in startups, aviation and AI
+- 🌱 I’m currently working on https://www.makerterminal.com 
+- 📫 How to reach me: https://www.linkedin.com/in/julianlew/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love travelling the world!
