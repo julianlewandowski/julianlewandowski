@@ -1,6 +1,6 @@
-- 👋 Hey, I’m @julianlewandowski!
-- 👀 I’m interested in startups, aviation and software design!
-- 🌱 I’m currently working on https://flyin.to and https://www.makerterminal.com 
-- 📫 How to reach me: https://www.linkedin.com/in/julianlew/
-- 😄 Pronouns: he/him
-- ⚡ I love travelling the world!
+- hey, i’m @julianlewandowski!
+- i like startups, aviation & software
+- i’m currently working on https://flyin.to and https://www.makerterminal.com
+- my repos are private :( read about my projects here -> https://julianlewandowski.com
+- i mainly work with react native, astro, js, java, and python
+- contact details are on my personal site - dm's are always open, i love meeting new people :)
