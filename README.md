@@ -1,6 +1,8 @@
 - hey, i’m @julianlewandowski!
+- 19 y/o student & builder
 - i like startups, aviation & software
-- i’m currently working on https://flyin.to and https://www.makerterminal.com
+- i’m currently working on https://flyin.to
+- co-organiser of https://demosanon.com
 - my repos are private :( read about my projects here -> https://julianlewandowski.com
 - i mainly work with react native, astro, js, java, and python
 - contact details are on my personal site - dm's are always open, i love meeting new people :)
