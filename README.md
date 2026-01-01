@@ -1,6 +1,6 @@
 hey, i’m julian!
-i'm a 19 y/o from ireland who loves startups, aviation, and building cool things
-read about me on julianlew.com
+- i'm a 19 y/o from ireland who loves startups, aviation, and building cool things
+- read about me on julianlew.com
 
 currently
 - working on getarivo.com, flyin.to, tyretrack.org
